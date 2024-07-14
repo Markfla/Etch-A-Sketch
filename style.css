@@ -1,6 +1,7 @@
 .title {
     color: black;
     font: bold;
+    justify-content: center;
 }
 
 .app {
